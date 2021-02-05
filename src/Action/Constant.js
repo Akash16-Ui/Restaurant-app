@@ -1,0 +1,1 @@
+export const GET_BANNER_DATA = "GET_BANNER_DATA";
